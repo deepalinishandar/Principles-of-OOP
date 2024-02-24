@@ -1,0 +1,41 @@
+Object-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of "objects," which are instances of classes. OOP focuses on organizing code into reusable and modular components, making it easier to develop and maintain complex software systems. Here are the core principles of OOP:
+
+Encapsulation:
+
+Encapsulation involves bundling data (attributes) and methods (functions) that operate on the data into a single unit, called a class.
+It restricts direct access to the data and only allows access through the methods, thereby hiding the internal state of an object and protecting it from external interference.
+Encapsulation helps achieve data abstraction, making it easier to manage and maintain the codebase.
+Abstraction:
+
+Abstraction focuses on representing the essential features of an object while hiding unnecessary details.
+It allows developers to create abstract data types that provide a simplified interface for interacting with complex systems.
+Abstraction is often achieved through abstract classes, interfaces, and inheritance, enabling code reuse and flexibility.
+Inheritance:
+
+Inheritance allows a class (subclass or derived class) to inherit properties and behaviors from another class (superclass or base class).
+Subclasses can extend or override the functionality of the superclass, enabling code reuse and promoting the concept of "is-a" relationships.
+Inheritance facilitates hierarchical organization and helps in building complex systems by promoting modularity and extensibility.
+Polymorphism:
+
+Polymorphism allows objects of different classes to be treated as objects of a common superclass.
+It enables the same method or operation to behave differently based on the type of object it is operating on.
+Polymorphism is typically achieved through method overriding (in subclasses) and method overloading (in the same class), promoting flexibility and simplifying code.
+Single Responsibility Principle (SRP):
+
+The SRP states that a class should have only one reason to change, meaning it should have a single responsibility or concern.
+Classes should be designed to encapsulate one specific aspect of the system's functionality, making them easier to understand, test, and maintain.
+Open/Closed Principle (OCP):
+
+The OCP states that software entities (classes, modules, functions) should be open for extension but closed for modification.
+It encourages developers to design systems that can be easily extended with new functionality without altering existing code.
+OCP promotes code reuse, modularity, and flexibility, contributing to the overall robustness and scalability of the system.
+Liskov Substitution Principle (LSP):
+
+The LSP states that objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.
+Subclasses should adhere to the contract established by the superclass, ensuring compatibility and interoperability within the inheritance hierarchy.
+Dependency Inversion Principle (DIP):
+
+The DIP states that high-level modules (e.g., classes, components) should not depend on low-level modules but should depend on abstractions.
+It promotes loose coupling between modules by abstracting dependencies and relying on interfaces or abstract classes instead of concrete implementations.
+DIP facilitates flexibility, testability, and maintainability by decoupling components and reducing the impact of changes in one module on others.
+These principles collectively form the foundation of OOP and guide developers in designing robust, maintainable, and scalable software systems. By adhering to these principles, developers can create code that is easier to understand, modify, and extend, leading to more efficient development and better software quality.

@@ -45,3 +45,5 @@ The DIP states that high-level modules (e.g., classes, components) should not de
 It promotes loose coupling between modules by abstracting dependencies and relying on interfaces or abstract classes instead of concrete implementations.
 DIP facilitates flexibility, testability, and maintainability by decoupling components and reducing the impact of changes in one module on others.
 These principles collectively form the foundation of OOP and guide developers in designing robust, maintainable, and scalable software systems. By adhering to these principles, developers can create code that is easier to understand, modify, and extend, leading to more efficient development and better software quality.
+
+Object-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of "objects," which are instances of classes. OOP focuses on organizing code into reusable and modular components, making it easier to develop and maintain complex software systems. Here are the core principles of OOP:

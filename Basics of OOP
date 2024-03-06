@@ -47,3 +47,7 @@ DIP facilitates flexibility, testability, and maintainability by decoupling comp
 These principles collectively form the foundation of OOP and guide developers in designing robust, maintainable, and scalable software systems. By adhering to these principles, developers can create code that is easier to understand, modify, and extend, leading to more efficient development and better software quality.
 
 Object-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of "objects," which are instances of classes. OOP focuses on organizing code into reusable and modular components, making it easier to develop and maintain complex software systems. Here are the core principles of OOP:
+
+The LSP states that objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.
+Subclasses should adhere to the contract established by the superclass, ensuring compatibility and interoperability within the inheritance hierarchy.
+Dependency Inversion Principle (DIP):

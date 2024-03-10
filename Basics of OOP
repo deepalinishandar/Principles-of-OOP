@@ -51,3 +51,9 @@ Object-Oriented Programming (OOP) is a programming paradigm that revolves around
 The LSP states that objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.
 Subclasses should adhere to the contract established by the superclass, ensuring compatibility and interoperability within the inheritance hierarchy.
 Dependency Inversion Principle (DIP):
+
+Inheritance allows a class (subclass or derived class) to inherit properties and behaviors from another class (superclass or base class).
+Subclasses can extend or override the functionality of the superclass, enabling code reuse and promoting the concept of "is-a" relationships.
+Inheritance facilitates hierarchical organization and helps in building complex systems by promoting modularity and extensibility.
+Polymorphism:
+

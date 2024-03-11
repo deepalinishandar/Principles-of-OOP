@@ -17,6 +17,11 @@ Subclasses can extend or override the functionality of the superclass, enabling 
 Inheritance facilitates hierarchical organization and helps in building complex systems by promoting modularity and extensibility.
 Polymorphism:
 
+Inheritance allows a class (subclass or derived class) to inherit properties and behaviors from another class (superclass or base class).
+Subclasses can extend or override the functionality of the superclass, enabling code reuse and promoting the concept of "is-a" relationships.
+Inheritance facilitates hierarchical organization and helps in building complex systems by promoting modularity and extensibility.
+Polymorphism:
+
 Polymorphism allows objects of different classes to be treated as objects of a common superclass.
 It enables the same method or operation to behave differently based on the type of object it is operating on.
 Polymorphism is typically achieved through method overriding (in subclasses) and method overloading (in the same class), promoting flexibility and simplifying code.

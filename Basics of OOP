@@ -27,6 +27,9 @@ It enables the same method or operation to behave differently based on the type 
 Polymorphism is typically achieved through method overriding (in subclasses) and method overloading (in the same class), promoting flexibility and simplifying code.
 Single Responsibility Principle (SRP):
 
+Polymorphism allows objects of different classes to be treated as objects of a common superclass.
+
+
 The SRP states that a class should have only one reason to change, meaning it should have a single responsibility or concern.
 Classes should be designed to encapsulate one specific aspect of the system's functionality, making them easier to understand, test, and maintain.
 Open/Closed Principle (OCP):

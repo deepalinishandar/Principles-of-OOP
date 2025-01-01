@@ -4,3 +4,4 @@ and code, in the form of procedures(often known as methods).
  OOP aims to organize software design around real-world entities,
 encapsulating data and behavior within objects, making code more modular,reusable,and and easier to maintain. The following the key 
 Core Concepts of OOP :
+Class and Object

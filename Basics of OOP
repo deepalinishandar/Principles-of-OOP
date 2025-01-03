@@ -6,3 +6,4 @@ encapsulating data and behavior within objects, making code more modular,reusabl
 Core Concepts of OOP :
 Class and Object
 Class: A blueprint or template that defines the structure and behavior of objects.
+       For example, a "Car" class might define attributes like color and methods like drive().
